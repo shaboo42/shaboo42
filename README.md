@@ -17,10 +17,8 @@ skilled in SQL and NoSQL databases and an avid Anime enthusiast.
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=java&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat&logo=c&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat&logo=amazon-aws&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat&logo=node.js&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=flat&logo=mysql&logoColor=white)
 
 ## 📊 GitHub Stats:
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shaboo42&show_icons=true&locale=en" alt="shaboo42" /></p>
-
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=shaboo42&show_icons=true&locale=en&layout=compact" alt="shaboo42" /></p>
-
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shaboo42&" alt="shaboo42" /></p>
+<a href="https://github.com/PedroSmaxY" align="center">  
+  <img left="30px" width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=shaboo42&show_icons=true&bg_color=00000000&text_bold=false&ring_color=20D7F7&text_color=f2f2f2&title_color=f2f2f2&rank_icon=github&hide_border=true&icon_color=46c7de" /> 
+<img width="42%" height="200px" src="https://github-readme-stats.vercel.app/api/top-langs?username=shaboo42&layout=compact&hide_border=true&title_color=f9f9f9&text_color=f2f2f2&bg_color=00000000" />
+</a>
 
