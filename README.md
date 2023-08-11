@@ -6,7 +6,7 @@
 ## About Me:
 Hi there, I'm Shabnam  🐱‍👤
 
-A passionate full-stack developer with expertise in Java programming, front-end(HTML, CSS, JavaScript) and back-end (Node.js, Express, Spring) technologies,
+A passionate full-stack developer with expertise in Java programming, front-end(HTML, CSS, JavaScript) and back-end (Node.js and Express) technologies,
 skilled in SQL and NoSQL databases and an avid Anime enthusiast.
 
 
